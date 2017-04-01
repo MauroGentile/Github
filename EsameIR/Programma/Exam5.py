@@ -210,9 +210,6 @@ users_queue.join()
 """
                     
 #user.profile_banner_url,
-#user.show_all_inline_media,
-#user.withheld_in_countries,
-#user.withheld_scope
 
 					
     	        
